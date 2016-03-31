@@ -1,0 +1,564 @@
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 1
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 2
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 3
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 4
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 5
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 6
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 7
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 8
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 9
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 10
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 11
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 12
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 13
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 14
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 15
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 16
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 17
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 18
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 19
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 20
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 21
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 22
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 23
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 24
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 25
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 26
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 27
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 28
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 29
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 30
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 31
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 32
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 33
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 34
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 35
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 36
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 37
+}
+{
+	"message": {
+		"binary": "0100000000101100100100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 38
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 39
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 40
+}
+{
+	"message": {
+		"binary": "0100010101001010101000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 41
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 42
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 43
+}
+{
+	"message": {
+		"binary": "0100100111110001001000000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 44
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 45
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 46
+}
+{
+	"message": {
+		"binary": "0100011011101101000100000",
+		"id": 262811,
+		"unit": 0,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "quigg_gt9000",
+	"uuid": "0000-b8-27-eb-4077b0",
+	"repeats": 47
+}
